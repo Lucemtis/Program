@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Program/static/css/main.7d0fa6e0.css",
+    "main.css": "/Program/static/css/main.831f69aa.css",
     "main.js": "/Program/static/js/main.ff5bd0b8.js",
     "static/media/timerClock.mp3": "/Program/static/media/timerClock.b78a9c88f9e22fadd46d.mp3",
     "static/media/timerTick.mp3": "/Program/static/media/timerTick.b513ad4fe7b281218a73.mp3",
     "index.html": "/Program/index.html",
-    "main.7d0fa6e0.css.map": "/Program/static/css/main.7d0fa6e0.css.map",
+    "main.831f69aa.css.map": "/Program/static/css/main.831f69aa.css.map",
     "main.ff5bd0b8.js.map": "/Program/static/js/main.ff5bd0b8.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d0fa6e0.css",
+    "static/css/main.831f69aa.css",
     "static/js/main.ff5bd0b8.js"
   ]
 }
